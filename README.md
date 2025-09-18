@@ -1,14 +1,26 @@
-<h2 align="left">Hi 👋! My name is riyan and I'm from indonesia</h2>
-
-###
-
 <img align="right" height="150" src="https://media.tenor.com/m7WocTla1rQAAAAi/persona-persona4.gif"  />
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=riyanmaulana1.riyanmaulana1&"  />
-</div>
+<h3 align="center">Hi 👋! My name is riyan</h3>
+
+###
+
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=riyanmaulana1.riyanmaulana1&left_text=Total%20Visitors"  />
+
+###
+
+<br clear="both">
+
+<h2 align="center"></h2>
+
+###
+
+<p align="left">still learning about programming languages</p>
+
+###
+
+<p align="left">Language and Tools</p>
 
 ###
 
@@ -21,18 +33,3 @@
 </div>
 
 ###
-
-<!--
-**riyanmaulana1/riyanmaulana1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
