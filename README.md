@@ -16,11 +16,11 @@
 
 ###
 
-<p align="left">still learning about programming languages</p>
+<h5 align="left">still learning about programming languages</h5>
 
 ###
 
-<p align="left">Language and Tools</p>
+<h3 align="left">Language and Tools</h3>
 
 ###
 
