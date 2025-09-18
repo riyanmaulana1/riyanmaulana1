@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Hi 👋! My name is riyan</h3>
+<h3 align="center">Hi 👋! My name is Riyan</h3>
 
 ###
 
