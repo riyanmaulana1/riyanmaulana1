@@ -2,15 +2,15 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=riyanmaulana1.riyanmaulana1&"  />
-</div>
 
 ###
 
 <h1 align="center">hey  👋 My Name Is Riyan</h1>
 
 ###
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=riyanmaulana1.riyanmaulana1&"  />
+</div>
 
 <p align="left">Still learning about programing language</p>
 
