@@ -2,34 +2,40 @@
 
 ###
 
-<h3 align="center">Hi 👋! My name is Riyan</h3>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=riyanmaulana1.riyanmaulana1&"  />
+</div>
 
 ###
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=riyanmaulana1.riyanmaulana1&left_text=Total%20Visitors"  />
+<h1 align="center">hey  👋 My Name Is Riyan</h1>
 
 ###
 
-<br clear="both">
-
-<h2 align="center"></h2>
+<p align="left">Still learning about programing language</p>
 
 ###
 
-<h5 align="left">still learning about programming languages</h5>
-
-###
-
-<h3 align="left">Language and Tools</h3>
+<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/riyanmaulana1/riyanmaulana1/output/snake.svg" alt="Snake animation" />
 
 ###
